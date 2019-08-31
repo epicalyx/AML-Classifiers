@@ -30,6 +30,7 @@ Below you will find a list of Python projects that are part of this repo:
 | [Python Movidius](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python/_Movidius "Python Movidius") | Classifiers programmed for Movidius in Python | 
 | [Python OpenVino](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python/_OpenVino "Python Caffe") | Classifiers programmed with OpenVino in Python | 
 | [Python Tensorflow](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python/_Tensorflow "Python Tensorflow") | Classifiers programmed with Tensorflow in Python | 
+| [Python Keras](https://github.com/AMLResearchProject/AML-Classifiers/tree/master/Python/_Keras "Python Keras") | Classifiers programmed with Keras in Python |
 | [Python Data Augmentation](https://github.com/AdamMiltonBarker/AML-Classifiers/blob/master/Python/Augmentation.ipynb "Python Data Augmentation") | A Python program for applying filters to the original dataset and increasing the amount of training / test data.
 
 # Research papers followed
